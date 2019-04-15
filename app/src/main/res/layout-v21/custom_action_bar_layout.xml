@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Toolbar
+    xmlns:android="http://schemas.android.com/apk/res/android" 
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <EditText
+        android:id="@+id/inputTextTV"
+        android:layout_width="310dp"
+        android:layout_height="wrap_content"
+        android:maxLines="1"/>
+    <ImageView
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:src="@mipmap/ic_search"
+        android:layout_marginLeft="30dp"/>
+</Toolbar>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Prueba MO2O</string>
+    <string name="action_search">Search</string>
+    <string name="no_receipes">Ups...looks like we don´t have receipes!</string>
+    <string name="title_not_available">Title not available</string>
+    <string name="ingredients_not_available">Ingredients not available</string>
+    <string name="link_not_available">Link not available</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="web_source">Web source</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
+
